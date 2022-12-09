@@ -67,3 +67,8 @@ Click on the following link to see the Code in Action:
 ## Get to Know the Author
 **Mounir Maaref**
 lives in the UK and works as a Principal SoC Architect. He has 25 years experience in the microelectronics industry spanning FPGAs, ASICs, Embedded Processing, Networking, Data Storage, Satellite Communications, Bluetooth, and WiFi connectivity. He likes working on cutting edge technologies involving both hardware and software. His main focus is on the system architecture design, performance analysis, and modeling. He has published several Application Notes and White Papers, and has been a speaker at many conferences worldwide. He holds a Masters degree in Electronics and Telecoms. He is a 2nd dan black belt in Tang Soo Do and is getting trained to become a Martial Arts instructor.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801810999">https://packt.link/free-ebook/9781801810999 </a> </p>
